@@ -1,4 +1,5 @@
 ###  Hello, I'm Sewmini 👋
+<hr>
 
 <h4>I  am tech enthusiastic, passionate, and hardworking individual with a great ambition of becoming a talented professional in Information Technology Industry.</h4>
 
