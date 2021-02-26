@@ -1,5 +1,4 @@
-<h2 style="text-align:center">Hello, I'm Sewmini 👋</h2>
-<hr>
+###  Hello, I'm Sewmini 👋
 
 <h4>I  am tech enthusiastic, passionate, and hardworking individual with a great ambition of becoming a talented professional in Information Technology Industry.</h4>
 
