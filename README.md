@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel**
 
-- 📫 How to reach me **sewmini.18@mrt.ac.lk | ksasewmini.dissanayaka@gmail.com**
+- 📫 How to reach me **sewmini.18@itfac.mrt.ac.lk | ksasewmini.dissanayaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
