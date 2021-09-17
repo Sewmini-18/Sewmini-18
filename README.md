@@ -1,10 +1,7 @@
 <h1 align="center">Hello, 👋, I'm Sewmini Dissanayaka</h1>
 <h3 align="center">Tech Enthusiastic</h3>
 
-- 🌱 I’m currently learning **React JS, Spring Boot**
-
-- 👯 I’m looking to collaborate on **Laravel**
-
+- 🌱 I’m currently learning **Angular JS, Spring Boot**
 - 📫 How to reach me **sewmini.18@itfac.mrt.ac.lk | ksasewmini.dissanayaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
